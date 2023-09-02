@@ -1,4 +1,3 @@
-# git-essentials
-## Deployment notes
-## staging notes
-## How to use this repo notes
+# Git Essentials
+
+This is a repo created whilst completing a course on how to use everyday Git.
